@@ -11,4 +11,4 @@ It was created with importing Tkinter.
 
 I plan on adding functions, geometrical shapes and multiple calculation features on it.
 
-![Calculator Screenshot](screenshots/calculator.png)
+![Calculator Screenshot](calculator.png)
